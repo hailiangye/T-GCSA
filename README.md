@@ -1,5 +1,5 @@
 # T-GCSA
-This repository is a PyTorch implementation of T-GCSA in "Triplet Teaching Graph Contrastive Networks with Self-evolving Adaptive Augmentation" (Pattern Recognition).
+This repository is a PyTorch implementation of T-GCSA in "Jiaxing Miao, Feilong Cao*, Ming Li, Bing Yang, Hailiang Ye, Triplet Teaching Graph Contrastive Networks with Self-evolving Adaptive Augmentation, Pattern Recognition, 2023, 142, 109687." Please cite this work when you use this code.
 
 ![image](https://github.com/PaperMiao/T-GCSA/assets/130887297/d875c6a6-9c32-4268-916b-e30b81f2787f)
 
