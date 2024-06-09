@@ -21,5 +21,4 @@ If you use our code in your research, please declare the source.
 ## The authors
 ![image](https://github.com/PaperMiao/T-GCSA/assets/130887297/a7871aae-0271-4725-9eef-efef0ac5c2b0)
 
-## Email address
-mjx606@163.com
+
